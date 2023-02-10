@@ -1,5 +1,5 @@
 [YouTube Channel]: https://www.youtube.com/channel/UCmxgAR5bhzAeLIhdPkUsVBA
-[Twitch]: https://www.twitch.tv/bofamucosa
+[Twitch]: https://www.twitch.tv/bofaschmucosa
 ## Hey there, I'm Sherman - aka BofaSchmucosa
 
 ### I normally edit videos, and I just so happen to be a computer engineering student as well
